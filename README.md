@@ -189,16 +189,3 @@ With more time, I would add a lightweight evaluation script such as `scripts/eva
 - Stores failed examples for regression testing
 
 I would also expand the labeled dataset to include scanned/OCR-like noisy text, multi-page PDFs, invoices with multiple meters, water plus sewer on the same bill, ambiguous service periods, missing usage units, and more languages. For production, I would add human review thresholds: for example, route invoices to review when required fields are missing, confidence is below a threshold, or normalized dates are inconsistent.
-
-## Video Walkthrough Outline
-
-1. State the goal: convert messy multilingual utility invoices into structured CSV rows.
-2. Show the folder structure and sample inputs.
-3. Walk through the five pipeline stages: load, preprocess, DeepSeek extract, normalize, write CSV.
-4. Explain the DeepSeek JSON-mode prompt and Pydantic validation schema.
-5. Show multilingual handling and unit/date normalization.
-6. Run `python -m src.main --mock-llm` and `python -m pytest -q`.
-7. Discuss tradeoffs: no OCR, no UI, no LangChain, deterministic validation around the LLM.
-8. Improvements: field-level evals, OCR fallback, human review queue, more invoice languages, and production logging.
-#   u t i l i t y - i n v o i c e - l l m - e x t r a c t o r  
- 
