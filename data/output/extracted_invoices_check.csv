@@ -1,0 +1,52 @@
+source_file,vendor_name,invoice_date,service_address,utility_type,usage_amount,usage_unit,billing_period_start,billing_period_end,language,confidence
+electric_en_0169.txt,METRO ELECTRIC POWER,2026-03-20,"4321 Pine Hollow Ln, Austin, TX 78704",electricity,545.0,kWh,2026-02-16,2026-03-18,en,0.85
+electric_en_es_0187.txt,CITYLIGHT UTILITY,2026-04-07,"2941 Sunset Terrace, San Diego, CA 92101",electricity,423.7,kWh,2026-03-08,2026-04-04,en,0.85
+electric_en_fr_0181.txt,METRO ELECTRIC POWER,2026-04-01,"7267 Pine Hollow Ln, Charlotte, NC 28202",electricity,397.8,kWh,2026-02-24,2026-03-29,en,0.85
+electric_en_pt_0175.txt,METRO ELECTRIC POWER,2026-03-26,"9714 Riverbend Ct, Phoenix, AZ 85016",electricity,726.0,kWh,2026-02-17,2026-03-22,en,0.85
+electric_es_0163.txt,EVERGREEN ENERGY,2026-03-14,"3685 Pine Hollow Ln, Phoenix, AZ 85016",electricity,767.9,kWh,2026-02-14,2026-03-12,es,0.85
+electric_fr_0157.txt,EVERGREEN ENERGY,2026-03-08,"4902 Summit View St, San Diego, CA 92101",electricity,1190.5,kWh,2026-02-07,2026-03-05,fr,0.85
+electric_pt_0151.txt,METRO ELECTRIC POWER,2026-03-02,"1719 Highland Park Pl, Austin, TX 78704",electricity,308.6,kWh,2026-01-31,2026-02-28,pt,0.85
+invoice_en_electricity.txt,BrightGrid Electric,2026-03-05,"1842 Pine Street, Denver, CO 80203",electricity,1242.0,kWh,2026-02-01,2026-02-28,en,0.96
+invoice_en_missing_address.txt,North Coast Water Utility,2026-04-02,,water,6750.0,gallons,2026-03-01,2026-03-31,en,0.88
+invoice_es_electricity_layout.txt,Compania Electrica Sur,2026-04-07,"Avenida Libertad 450, 41001 Sevilla",electricity,1536.5,kWh,2026-03-01,2026-03-31,es,0.94
+invoice_es_water.txt,Aguas del Valle,2026-03-12,"Calle Mayor 18, Piso 2, 28013 Madrid",water,24.0,m3,2026-02-01,2026-02-28,es,0.95
+invoice_fr_gas.txt,Gaz Municipal de Lyon,2026-03-19,"22 Rue Victor Hugo, 69002 Lyon",gas,63.0,therms,2026-02-15,2026-03-14,fr,0.95
+irrigation_en_0155.txt,DISTRICT IRRIGATION UTILITY,2026-03-06,"5268 Oak Meadow Way, Atlanta, GA 30308",water,18848.0,gallons,2026-02-02,2026-03-05,en,0.85
+irrigation_en_es_0173.txt,,2026-03-24,"4795 Pine Hollow Ln, Seattle, WA 98109",water,20543.0,gallons,2026-02-19,2026-03-21,en,0.78
+irrigation_en_fr_0167.txt,,2026-03-18,"1120 Willow Creek Blvd, San Diego, CA 92101",water,4712.0,gallons,2026-02-18,2026-03-16,en,0.78
+irrigation_en_pt_0161.txt,DISTRICT IRRIGATION UTILITY,2026-03-12,"6617 Sunset Terrace, San Diego, CA 92101",water,12910.0,gallons,2026-02-03,2026-03-08,en,0.85
+irrigation_es_0191.txt,DISTRICT IRRIGATION UTILITY,2026-04-11,"5703 Highland Park Pl, Seattle, WA 98109",water,13117.0,gallons,2026-03-11,2026-04-08,es,0.85
+irrigation_fr_0185.txt,DISTRICT IRRIGATION UTILITY,2026-04-05,"8145 Riverbend Ct, Chicago, IL 60614",water,17370.0,gallons,2026-03-04,2026-04-01,fr,0.85
+irrigation_pt_0179.txt,DISTRICT IRRIGATION UTILITY,2026-03-30,"3957 Pine Hollow Ln, Seattle, WA 98109",water,16274.0,gallons,2026-02-22,2026-03-26,pt,0.85
+Joint+Water+&+Sewer+Sample+Bill.pdf,,,,water,,,2026-06-02,2031-07-02,en,0.53
+natural_gas_en_0176.txt,COMMUNITY GAS COMPANY,2026-03-27,"621 Sunset Terrace, Orlando, FL 32801",gas,121.0,therms,2026-02-26,2026-03-24,en,0.85
+natural_gas_en_es_0152.txt,COMMUNITY GAS COMPANY,2026-03-03,"9237 Oak Meadow Way, Phoenix, AZ 85016",gas,59.2,therms,2026-02-02,2026-03-02,en,0.85
+natural_gas_en_fr_0188.txt,NORTHERN GAS SERVICE,2026-04-08,"952 Sunset Terrace, Chicago, IL 60614",gas,134.6,therms,2026-03-05,2026-04-04,en,0.85
+natural_gas_en_pt_0182.txt,,2026-04-02,"3247 Willow Creek Blvd, Austin, TX 78704",gas,87.5,therms,2026-03-01,2026-03-31,en,0.78
+natural_gas_es_0170.txt,NORTHERN GAS SERVICE,2026-03-21,"5691 Summit View St, Orlando, FL 32801",gas,75.9,therms,2026-02-20,2026-03-20,es,0.85
+natural_gas_fr_0164.txt,NORTHERN GAS SERVICE,2026-03-15,"5136 Cedar Lake Ave, Atlanta, GA 30308",gas,43.2,therms,2026-02-11,2026-03-13,fr,0.85
+natural_gas_pt_0158.txt,,2026-03-09,"568 Highland Park Pl, Denver, CO 80205",gas,154.6,therms,2026-02-05,2026-03-07,pt,0.78
+sample-bill (1).pdf,,,,gas,,,,,en,0.39
+sample-bill.pdf,24-Hour Gas Emergencies 800-401-6451,,,gas,,,,,en,0.46
+SampleUtilityBill.pdf,"For the convenience of our customers VCDD Utilities provides one combined bill for Water, Sanitation, Amenity Services and RV Storage Lot Rental. Water, Sewer",,,water,,,,,en,0.46
+waste_en_0162.txt,,2026-03-13,"2866 Maple Ridge Dr, Boston, MA 02118",,,,2026-02-10,2026-03-11,en,0.56
+waste_en_es_0180.txt,CLEANCYCLE UTILITY,2026-03-31,"1413 Maple Ridge Dr, Denver, CO 80205",,,,2026-03-01,2026-03-30,en,0.64
+waste_en_fr_0174.txt,CLEANCYCLE UTILITY,2026-03-25,"8078 Sunset Terrace, Denver, CO 80205",,,,2026-02-19,2026-03-22,en,0.64
+waste_en_pt_0168.txt,CLEANCYCLE UTILITY,2026-03-19,"8097 Willow Creek Blvd, Charlotte, NC 28202",,,,2026-02-11,2026-03-16,en,0.64
+waste_es_0156.txt,,2026-03-07,"9589 North Harbor Rd, Atlanta, GA 30308",,,,2026-02-07,2026-03-05,es,0.56
+waste_fr_0192.txt,,2026-04-12,"216 Sunset Terrace, Charlotte, NC 28202",,,,2026-03-14,2026-04-11,fr,0.56
+waste_pt_0186.txt,CLEANCYCLE UTILITY,2026-04-06,"229 Cedar Lake Ave, Chicago, IL 60614",,,,2026-03-05,2026-04-05,pt,0.64
+water_en_0183.txt,CLEARWATER DISTRICT,2026-04-03,"7187 Maple Ridge Dr, Chicago, IL 60614",water,22241.0,gallons,2026-03-03,2026-03-31,en,0.85
+water_en_es_0159.txt,CLEARWATER DISTRICT,2026-03-10,"9053 North Harbor Rd, Boston, MA 02118",water,7119.0,gallons,2026-02-03,2026-03-07,en,0.85
+water_en_fr_0153.txt,CLEARWATER DISTRICT,2026-03-04,"795 North Harbor Rd, Chicago, IL 60614",water,26501.0,gallons,2026-01-29,2026-02-28,en,0.85
+water_en_pt_0189.txt,MUNICIPAL WATER WORKS,2026-04-09,"5952 Pine Hollow Ln, Denver, CO 80205",water,8315.0,gallons,2026-03-08,2026-04-08,en,0.85
+water_es_0177.txt,MUNICIPAL WATER WORKS,2026-03-28,"1338 Willow Creek Blvd, Boston, MA 02118",water,22640.0,gallons,2026-02-23,2026-03-26,es,0.85
+water_fr_0171.txt,CLEARWATER DISTRICT,2026-03-22,"2563 Summit View St, Boston, MA 02118",water,25166.0,gallons,2026-02-18,2026-03-19,fr,0.85
+water_pt_0165.txt,MUNICIPAL WATER WORKS,2026-03-16,"7598 Maple Ridge Dr, San Diego, CA 92101",water,4616.0,gallons,2026-02-11,2026-03-13,pt,0.85
+water_sewer_en_0190.txt,COUNTY WATER SERVICES,2026-04-10,"423 Maple Ridge Dr, Denver, CO 80205",water,5535.0,gallons,2026-03-10,2026-04-09,en,0.85
+water_sewer_en_es_0166.txt,AMERICAN WATER DISTRICT,2026-03-17,"4869 Riverbend Ct, Seattle, WA 98109",water,21660.0,gallons,2026-02-16,2026-03-16,en,0.85
+water_sewer_en_fr_0160.txt,AMERICAN WATER DISTRICT,2026-03-11,"8101 Highland Park Pl, Atlanta, GA 30308",water,10544.0,gallons,2026-02-10,2026-03-08,en,0.85
+water_sewer_en_pt_0154.txt,AMERICAN WATER DISTRICT,2026-03-05,"5283 Cedar Lake Ave, Austin, TX 78704",water,14134.0,gallons,2026-01-31,2026-03-03,en,0.85
+water_sewer_es_0184.txt,AMERICAN WATER DISTRICT,2026-04-04,"9378 Summit View St, Atlanta, GA 30308",water,4034.0,gallons,2026-02-27,2026-04-01,es,0.85
+water_sewer_fr_0178.txt,JOINT WATER & SEWER UTILITY,2026-03-29,"4332 Oak Meadow Way, Boston, MA 02118",water,5375.0,gallons,2026-02-23,2026-03-25,fr,0.85
+water_sewer_pt_0172.txt,AMERICAN WATER DISTRICT,2026-03-23,"2104 Maple Ridge Dr, San Diego, CA 92101",water,14751.0,gallons,2026-02-20,2026-03-22,pt,0.85

@@ -1,0 +1,14 @@
+Gaz Municipal de Lyon
+Facture: GML-2026-0319
+Date de facture: 19 mars 2026
+
+Adresse de service:
+22 Rue Victor Hugo
+69002 Lyon
+
+Periode de consommation: du 15 fevrier 2026 au 14 mars 2026
+
+Gaz naturel
+Consommation: 63 therms
+
+Montant total: 72,16 EUR

@@ -1,0 +1,46 @@
+AMERICAN WATER DISTRICT
+Utility Invoice / Facture de services
+========================================================================
+Customer Name / Nom du client: Camila Santos
+Service Address / Adresse de service: 8101 Highland Park Pl, Atlanta, GA 30308
+Account Number / Numero de compte: 8965524050
+Invoice Number / Numero de facture: INV-202600160
+Bill Date / Date de facturation: 03/11/2026
+Due Date / Date d'echeance: 04/05/2026
+Service Period / Periode de service: 02/10/2026 to 03/08/2026
+Amount Due / Montant du: $124.93
+
+Account Summary / Resume du compte
+------------------------------------------------------------------------
+Previous Balance / Solde precedent: $7.67
+Payment Received / Paiement recu: -$7.67
+Current Charges / Frais actuels: $124.93
+Late Fee / Frais de retard: $0.00
+Total Amount Due / Total a payer: $124.93
+
+Meter / Compteur
+------------------------------------------------------------------------
+Meter / Compteur: WA6578261
+Previous Reading / Lecture precedente: 64,751
+Current Reading / Lecture actuelle: 75,295
+Usage / Consommation: 10,544.0 Gallons
+Billing Days: 27
+
+Service Charges / Frais de service
+------------------------------------------------------------------------
+Base facility charge                                   $26.12
+Water consumption                                      $49.78
+Sewer service                                          $42.14
+Conservation program                                    $2.91
+Local utility tax                                       $3.98
+
+Important Messages / Messages importants
+------------------------------------------------------------------------
+- Enroll in automatic payments to avoid missed due dates.
+- Report emergencies immediately using the 24-hour phone number on this bill.
+- La consommation quotidienne moyenne est indiquee pour comparaison.
+- Inscrivez-vous aux paiements automatiques pour eviter les retards.
+
+Customer Service / Service client: 800-624-2390
+Template reference: SampleUtilityBill.pdf: 
+Data source mode: synthetic

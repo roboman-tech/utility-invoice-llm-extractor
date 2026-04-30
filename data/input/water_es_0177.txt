@@ -1,0 +1,43 @@
+MUNICIPAL WATER WORKS
+Factura de servicios
+========================================================================
+Nombre del cliente: Amelia Brooks
+Direccion de servicio: 1338 Willow Creek Blvd, Boston, MA 02118
+Numero de cuenta: 4068640101
+Numero de factura: INV-202600177
+Fecha de facturacion: 03/28/2026
+Fecha de vencimiento: 04/15/2026
+Periodo de servicio: 02/23/2026 to 03/26/2026
+Monto adeudado: $87.95
+
+Resumen de cuenta
+------------------------------------------------------------------------
+Saldo anterior: $208.99
+Pago recibido: -$208.99
+Cargos actuales: $87.95
+Cargo por pago tardio: $0.00
+Total a pagar: $87.95
+
+Medidor
+------------------------------------------------------------------------
+Medidor: WA8556422
+Lectura anterior: 86,402
+Lectura actual: 109,042
+Consumo: 22,640.0 Gallons
+Billing Days: 32
+
+Cargos del servicio
+------------------------------------------------------------------------
+Base facility charge                                   $14.16
+Water consumption                                      $54.75
+Conservation program                                   $16.90
+Local utility tax                                       $2.14
+
+Mensajes importantes
+------------------------------------------------------------------------
+- La facturacion electronica esta disponible en el portal del cliente.
+- Inscribase en pagos automaticos para evitar retrasos.
+
+Servicio al cliente: 800-610-1872
+Template reference: Joint+Water+&+Sewer+Sample+Bill.pdf: CALIFORNIA-AMERICAN WATER COMPANY
+Data source mode: synthetic

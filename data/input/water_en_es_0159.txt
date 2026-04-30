@@ -1,0 +1,45 @@
+CLEARWATER DISTRICT
+Utility Invoice / Factura de servicios
+========================================================================
+Customer Name / Nombre del cliente: Emma Thompson
+Service Address / Direccion de servicio: 9053 North Harbor Rd, Boston, MA 02118
+Account Number / Numero de cuenta: 7655611869
+Invoice Number / Numero de factura: INV-202600159
+Bill Date / Fecha de facturacion: 03/10/2026
+Due Date / Fecha de vencimiento: 03/31/2026
+Service Period / Periodo de servicio: 02/03/2026 to 03/07/2026
+Amount Due / Monto adeudado: $52.71
+
+Account Summary / Resumen de cuenta
+------------------------------------------------------------------------
+Previous Balance / Saldo anterior: $111.25
+Payment Received / Pago recibido: -$111.25
+Current Charges / Cargos actuales: $52.71
+Late Fee / Cargo por pago tardio: $0.00
+Total Amount Due / Total a pagar: $52.71
+
+Meter / Medidor
+------------------------------------------------------------------------
+Meter / Medidor: WA4887598
+Previous Reading / Lectura anterior: 17,078
+Current Reading / Lectura actual: 24,197
+Usage / Consumo: 7,119.0 Gallons
+Billing Days: 33
+
+Service Charges / Cargos del servicio
+------------------------------------------------------------------------
+Base facility charge                                   $23.21
+Water consumption                                      $22.03
+Conservation program                                    $5.31
+Local utility tax                                       $2.15
+
+Important Messages / Mensajes importantes
+------------------------------------------------------------------------
+- Report emergencies immediately using the 24-hour phone number on this bill.
+- Enroll in automatic payments to avoid missed due dates.
+- Inscribase en pagos automaticos para evitar retrasos.
+- Reporte emergencias de inmediato usando el telefono de 24 horas.
+
+Customer Service / Servicio al cliente: 800-634-2760
+Template reference: sample-bill.pdf: Service Address
+Data source mode: synthetic

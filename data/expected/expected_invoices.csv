@@ -1,0 +1,6 @@
+source_file,vendor_name,invoice_date,service_address,utility_type,usage_amount,usage_unit,billing_period_start,billing_period_end,language,confidence
+invoice_en_electricity.txt,BrightGrid Electric,2026-03-05,"1842 Pine Street, Denver, CO 80203",electricity,1242.0,kWh,2026-02-01,2026-02-28,en,0.96
+invoice_en_missing_address.txt,North Coast Water Utility,2026-04-02,,water,6750.0,gallons,2026-03-01,2026-03-31,en,0.88
+invoice_es_electricity_layout.txt,Compania Electrica Sur,2026-04-07,"Avenida Libertad 450, 41001 Sevilla",electricity,1536.5,kWh,2026-03-01,2026-03-31,es,0.94
+invoice_es_water.txt,Aguas del Valle,2026-03-12,"Calle Mayor 18, Piso 2, 28013 Madrid",water,24.0,m3,2026-02-01,2026-02-28,es,0.95
+invoice_fr_gas.txt,Gaz Municipal de Lyon,2026-03-19,"22 Rue Victor Hugo, 69002 Lyon",gas,63.0,therms,2026-02-15,2026-03-14,fr,0.95

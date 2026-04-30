@@ -1,0 +1,44 @@
+JOINT WATER & SEWER UTILITY
+Facture de services
+========================================================================
+Nom du client: Nina Pereira
+Adresse de service: 4332 Oak Meadow Way, Boston, MA 02118
+Numero de compte: 7625186710
+Numero de facture: INV-202600178
+Date de facturation: 03/29/2026
+Date d'echeance: 04/19/2026
+Periode de service: 02/23/2026 to 03/25/2026
+Montant du: $66.77
+
+Resume du compte
+------------------------------------------------------------------------
+Solde precedent: $95.68
+Paiement recu: -$95.68
+Frais actuels: $66.77
+Frais de retard: $0.00
+Total a payer: $66.77
+
+Compteur
+------------------------------------------------------------------------
+Compteur: WA7061688
+Lecture precedente: 32,318
+Lecture actuelle: 37,693
+Consommation: 5,375.0 Gallons
+Billing Days: 31
+
+Frais de service
+------------------------------------------------------------------------
+Base facility charge                                   $14.80
+Water consumption                                      $14.85
+Sewer service                                          $31.96
+Conservation program                                    $1.85
+Local utility tax                                       $3.30
+
+Messages importants
+------------------------------------------------------------------------
+- La consommation quotidienne moyenne est indiquee pour comparaison.
+- La facturation sans papier est disponible sur le portail client.
+
+Service client: 800-623-2353
+Template reference: sample-bill (1).pdf: Service Address
+Data source mode: synthetic

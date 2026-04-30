@@ -1,0 +1,44 @@
+BLUEFLAME UTILITIES
+Fatura de servicos
+========================================================================
+Nome do cliente: Chloe Dubois
+Endereco do servico: 568 Highland Park Pl, Denver, CO 80205
+Numero da conta: 1342393697
+Numero da fatura: INV-202600158
+Data da fatura: 03/09/2026
+Data de vencimento: 04/03/2026
+Periodo de servico: 02/05/2026 to 03/07/2026
+Valor devido: $196.49
+
+Resumo da conta
+------------------------------------------------------------------------
+Saldo anterior: $36.34
+Pagamento recebido: -$36.34
+Cobrancas atuais: $196.49
+Taxa de atraso: $0.00
+Total a pagar: $196.49
+
+Medidor
+------------------------------------------------------------------------
+Medidor: NA3846369
+Leitura anterior: 26,543
+Leitura atual: 26,714
+Consumo: 154.6 Therms
+Billing Days: 31
+
+Cobrancas do servico
+------------------------------------------------------------------------
+Fixed customer charge                                  $27.53
+Gas supply service                                     $58.07
+Delivery service                                       $91.30
+Pipeline reservation                                    $8.27
+Taxes and fees                                         $11.32
+
+Mensagens importantes
+------------------------------------------------------------------------
+- Relate emergencias imediatamente pelo telefone 24 horas.
+- Cadastre pagamentos automaticos para evitar atrasos.
+
+Atendimento ao cliente: 800-627-2501
+Template reference: sample-bill (1).pdf: Service Address
+Data source mode: synthetic

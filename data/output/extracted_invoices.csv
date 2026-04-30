@@ -1,0 +1,5 @@
+source_file,vendor_name,invoice_date,service_address,utility_type,usage_amount,usage_unit,billing_period_start,billing_period_end,language,confidence
+Joint+Water+&+Sewer+Sample+Bill.pdf,CALIFORNIA AMERICAN WATER,2018-07-05,,water,27.67,CGL,2018-06-02,2018-07-02,en,0.92
+sample-bill (1).pdf,Peoples Gas,2026-02-03,123 MAIN ST CHICAGO IL 60601-6207,gas,72.6,therms,2026-01-05,2026-02-02,en,0.95
+sample-bill.pdf,Michigan Gas Utilities,2026-01-29,,gas,155.0,CCF,2025-12-31,2026-01-27,en,0.87
+SampleUtilityBill.pdf,"For the convenience of our customers VCDD Utilities provides one combined bill for Water, Sanitation, Amenity Services and RV Storage Lot Rental. Water, Sewer",,,water,,,,,en,0.46

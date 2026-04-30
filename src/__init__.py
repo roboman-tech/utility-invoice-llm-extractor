@@ -1,0 +1,1 @@
+"""Utility invoice extraction pipeline."""

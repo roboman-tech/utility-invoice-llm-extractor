@@ -1,0 +1,44 @@
+EVERGREEN ENERGY
+Factura de servicios
+========================================================================
+Nombre del cliente: Ethan Brown
+Direccion de servicio: 3685 Pine Hollow Ln, Phoenix, AZ 85016
+Numero de cuenta: 4178183607
+Numero de factura: INV-202600163
+Fecha de facturacion: 03/14/2026
+Fecha de vencimiento: 04/01/2026
+Periodo de servicio: 02/14/2026 to 03/12/2026
+Monto adeudado: $204.00
+
+Resumen de cuenta
+------------------------------------------------------------------------
+Saldo anterior: $95.01
+Pago recibido: -$54.41
+Cargos actuales: $161.44
+Cargo por pago tardio: $1.96
+Total a pagar: $204.00
+
+Medidor
+------------------------------------------------------------------------
+Medidor: EL5136714
+Lectura anterior: 3,047
+Lectura actual: 3,815
+Consumo: 767.9 kWh
+Billing Days: 27
+
+Cargos del servicio
+------------------------------------------------------------------------
+Basic service charge                                   $10.44
+Energy supply                                         $119.61
+Distribution delivery                                  $20.64
+Public benefit programs                                 $4.07
+Taxes and franchise fees                                $6.68
+
+Mensajes importantes
+------------------------------------------------------------------------
+- Reporte emergencias de inmediato usando el telefono de 24 horas.
+- El consumo diario promedio se muestra para comparar con periodos anteriores.
+
+Servicio al cliente: 800-625-2427
+Template reference: sample-bill.pdf: Service Address
+Data source mode: synthetic
